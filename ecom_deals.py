@@ -5,9 +5,9 @@ from urllib.parse import urljoin
 from telegram import Bot
 
 # ===================== CONFIGURATION =====================
-TELEGRAM_TOKEN = "YOUR_BOT_TOKEN"          # from BotFather
-CHANNEL_ID = "@YourChannelUsername"        # e.g., @IndiaSuperDeals
-AMAZON_TAG = "your-tag-21"                 # Amazon Associates tag
+TELEGRAM_TOKEN = "AAHRfEQE7VggV5SSYlncvBhOIILDPfUIqB4"          # from BotFather
+CHANNEL_ID = "@indiasuperdeals"        # e.g., @IndiaSuperDeals
+AMAZON_TAG = "mukesh0bd7-21"                 # Amazon Associates tag
 CUELINKS_API_KEY = "placeholder"           # will be updated after approval
 # ==========================================================
 
