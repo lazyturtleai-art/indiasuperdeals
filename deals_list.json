@@ -1,0 +1,6 @@
+[
+  {"title": "boAt Rockerz 255 Pro+ Wireless Earphones", "price": "₹999", "url": "https://www.amazon.in/dp/B07J8KNRV5?tag=your-tag-21", "platform": "Amazon"},
+  {"title": "Redmi Note 12 Pro 5G (Glacier Blue, 6GB RAM, 128GB ROM)", "price": "₹17,999", "url": "https://www.amazon.in/dp/B0BQ7FM45N?tag=your-tag-21", "platform": "Amazon"},
+  {"title": "OnePlus Nord CE 3 Lite 5G (Pastel Lime, 8GB RAM, 128GB ROM)", "price": "₹16,999", "url": "https://www.amazon.in/dp/B0BY8JZ22P?tag=your-tag-21", "platform": "Amazon"},
+  ... (add up to 24 items, each with a tag)
+]
