@@ -1,6 +1,146 @@
 [
-  {"title": "boAt Rockerz 255 Pro+ Wireless Earphones", "price": "₹999", "url": "https://www.amazon.in/dp/B07J8KNRV5?tag=your-tag-21", "platform": "Amazon"},
-  {"title": "Redmi Note 12 Pro 5G (Glacier Blue, 6GB RAM, 128GB ROM)", "price": "₹17,999", "url": "https://www.amazon.in/dp/B0BQ7FM45N?tag=your-tag-21", "platform": "Amazon"},
-  {"title": "OnePlus Nord CE 3 Lite 5G (Pastel Lime, 8GB RAM, 128GB ROM)", "price": "₹16,999", "url": "https://www.amazon.in/dp/B0BY8JZ22P?tag=your-tag-21", "platform": "Amazon"},
-  ... (add up to 24 items, each with a tag)
+  {
+    "title": "boAt Rockerz 255 Pro+ Wireless Earphones",
+    "price": "₹999",
+    "url": "https://www.amazon.in/dp/B07J8KNRV5?tag=mukesh0bd7-21",
+    "platform": "Amazon"
+  },
+  {
+    "title": "Redmi Note 12 Pro 5G (Glacier Blue, 6GB/128GB)",
+    "price": "₹17,999",
+    "url": "https://www.amazon.in/dp/B0BQ7FM45N?tag=mukesh0bd7-21",
+    "platform": "Amazon"
+  },
+  {
+    "title": "OnePlus Nord CE 3 Lite 5G (Pastel Lime, 8GB/128GB)",
+    "price": "₹16,999",
+    "url": "https://www.amazon.in/dp/B0BY8JZ22P?tag=mukesh0bd7-21",
+    "platform": "Amazon"
+  },
+  {
+    "title": "Samsung Galaxy M14 5G (Berry Blue, 4GB/64GB)",
+    "price": "₹11,490",
+    "url": "https://www.amazon.in/dp/B0C5CBJ8FP?tag=mukesh0bd7-21",
+    "platform": "Amazon"
+  },
+  {
+    "title": "JBL C100SI Wired Earphones with Mic",
+    "price": "₹499",
+    "url": "https://www.amazon.in/dp/B07F6XPQYX?tag=mukesh0bd7-21",
+    "platform": "Amazon"
+  },
+  {
+    "title": "Fire-Boltt Phoenix Smart Watch",
+    "price": "₹1,199",
+    "url": "https://www.amazon.in/dp/B0BLY7NGMZ?tag=mukesh0bd7-21",
+    "platform": "Amazon"
+  },
+  {
+    "title": "ASUS Vivobook 15 (2023) Core i3 12th Gen",
+    "price": "₹36,990",
+    "url": "https://www.amazon.in/dp/B0C61RYWVG?tag=mukesh0bd7-21",
+    "platform": "Amazon"
+  },
+  {
+    "title": "Prestige Electric Kettle PKOSS 1.5 L",
+    "price": "₹549",
+    "url": "https://www.amazon.in/dp/B07D5Q9ZLM?tag=mukesh0bd7-21",
+    "platform": "Amazon"
+  },
+  {
+    "title": "Bajaj Rex 500W Mixer Grinder",
+    "price": "₹1,699",
+    "url": "https://www.amazon.in/dp/B07X1VKMHH?tag=mukesh0bd7-21",
+    "platform": "Amazon"
+  },
+  {
+    "title": "Saffola Gold Blended Oil, 1 L",
+    "price": "₹158",
+    "url": "https://www.amazon.in/dp/B01MR0L0M7?tag=mukesh0bd7-21",
+    "platform": "Amazon"
+  },
+  {
+    "title": "Tata Sampann Unpolished Toor Dal, 1 kg",
+    "price": "₹179",
+    "url": "https://www.amazon.in/dp/B07G2G2G9W?tag=mukesh0bd7-21",
+    "platform": "Amazon"
+  },
+  {
+    "title": "Dettol Antiseptic Liquid, 500 ml",
+    "price": "₹186",
+    "url": "https://www.amazon.in/dp/B0078TDQWG?tag=mukesh0bd7-21",
+    "platform": "Amazon"
+  },
+  {
+    "title": "Ponds Super Light Gel Moisturiser, 147 g",
+    "price": "₹249",
+    "url": "https://www.amazon.in/dp/B015A6T8SE?tag=mukesh0bd7-21",
+    "platform": "Amazon"
+  },
+  {
+    "title": "Lakme Eyeconic Kajal, Black, 0.35 g",
+    "price": "₹155",
+    "url": "https://www.amazon.in/dp/B00LQN14C6?tag=mukesh0bd7-21",
+    "platform": "Amazon"
+  },
+  {
+    "title": "Nivea Soft Light Moisturiser, 200 ml",
+    "price": "₹199",
+    "url": "https://www.amazon.in/dp/B01MR0L0M7?tag=your-tag-21",
+    "platform": "Amazon"
+  },
+  {
+    "title": "Colgate Max Fresh Toothpaste, 300 g",
+    "price": "₹149",
+    "url": "https://www.amazon.in/dp/B00K5ZXED4?tag=mukesh0bd7-21",
+    "platform": "Amazon"
+  },
+  {
+    "title": "Harpic Power Plus Toilet Cleaner, 1 L",
+    "price": "₹179",
+    "url": "https://www.amazon.in/dp/B01LN5DM1O?tag=mukesh0bd7-21",
+    "platform": "Amazon"
+  },
+  {
+    "title": "Lizol Disinfectant Floor Cleaner, 2 L",
+    "price": "₹296",
+    "url": "https://www.amazon.in/dp/B07D9J4BZ3?tag=your-tag-21",
+    "platform": "Amazon"
+  },
+  {
+    "title": "Bingo Mad Angles Chilli Dhamaka, 66 g",
+    "price": "₹20",
+    "url": "https://www.amazon.in/dp/B01KZ1X0ZO?tag=mukesh0bd7-21",
+    "platform": "Amazon"
+  },
+  {
+    "title": "MTR Rava Idli Instant Mix, 500 g",
+    "price": "₹75",
+    "url": "https://www.amazon.in/dp/B00V5X5QFY?tag=mukesh0bd7-21",
+    "platform": "Amazon"
+  },
+  {
+    "title": "Paper Boat Aamras, 1 L",
+    "price": "₹110",
+    "url": "https://www.amazon.in/dp/B01N1Y6Z3U?tag=mukesh0bd7-21",
+    "platform": "Amazon"
+  },
+  {
+    "title": "Boat Stone 200 Portable Speaker",
+    "price": "₹699",
+    "url": "https://www.amazon.in/dp/B07W76RFZ6?tag=mukesh0bd7-21",
+    "platform": "Amazon"
+  },
+  {
+    "title": "SanDisk Cruzer Blade 32GB USB Flash Drive",
+    "price": "₹189",
+    "url": "https://www.amazon.in/dp/B00G9X3T7C?tag=mukesh0bd7-21",
+    "platform": "Amazon"
+  },
+  {
+    "title": "Amazon Basics 2-Port USB Wall Charger",
+    "price": "₹199",
+    "url": "https://www.amazon.in/dp/B07FYP4GZ3?tag=mukesh0bd7-21",
+    "platform": "Amazon"
+  }
 ]
