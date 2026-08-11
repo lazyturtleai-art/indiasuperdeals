@@ -17,8 +17,8 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
-        run: pip install requests beautifulsoup4 python-telegram-bot
+      -- name: Install dependencies
+  run: pip install requests beautifulsoup4
 
       - name: Run bot
       
