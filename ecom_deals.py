@@ -200,17 +200,21 @@ def scrape_bigbasket():
     return deals
 
 # ---------- MAIN ENGINE ----------
+import json, os, random
+
+DEALS_FILE = "deals_list.json"
+
 def gather_all_deals():
-    all_deals = []
-    # TEMPORARY: Only Amazon while Cuelinks is pending approval
-    scrapers = [
-        ("Amazon", scrape_amazon),
-         ("Flipkart", scrape_flipkart),
-         ("Shopsy", scrape_shopsy),
-         ("AJIO", scrape_ajio),
-         ("Myntra", scrape_myntra),
-         ("BigBasket", scrape_bigbasket),
-    ]
+    # Try loading from static file first (if exists)
+    if os.path.exists(DEALS_FILE):
+        with open(DEALS_FILE, "r") as f:
+            static_deals = json.load(f)
+        if static_deals:
+            print(f"Using static deals: {len(static_deals)} available")
+            return static_deals
+
+    # Otherwise fallback to scraping (you may leave this empty for now)
+    return []
     for name, func in scrapers:
         try:
             deals = func()
