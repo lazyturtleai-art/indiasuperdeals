@@ -1,0 +1,24 @@
+name: Hourly Deals Post
+
+on:
+  schedule:
+    - cron: '17 * * * *'      # runs every hour at minute 17 (UTC)
+  workflow_dispatch:          # lets you run manually from Actions tab
+
+jobs:
+  post-deal:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 python-telegram-bot
+
+      - name: Run bot
+        run: python ecom_deals.py
