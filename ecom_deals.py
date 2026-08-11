@@ -205,11 +205,11 @@ def gather_all_deals():
     # TEMPORARY: Only Amazon while Cuelinks is pending approval
     scrapers = [
         ("Amazon", scrape_amazon),
-        # ("Flipkart", scrape_flipkart),
-        # ("Shopsy", scrape_shopsy),
-        # ("AJIO", scrape_ajio),
-        # ("Myntra", scrape_myntra),
-        # ("BigBasket", scrape_bigbasket),
+         ("Flipkart", scrape_flipkart),
+         ("Shopsy", scrape_shopsy),
+         ("AJIO", scrape_ajio),
+         ("Myntra", scrape_myntra),
+         ("BigBasket", scrape_bigbasket),
     ]
     for name, func in scrapers:
         try:
